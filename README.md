@@ -1,5 +1,6 @@
 # ML
-Log for ML activity and code
+Machine Learning projects and code.
+
 # Till 11/27/18
   I refered so many articles online and didn't know where to start, but in the end i found some good articles and started my ML journey.
 <a href="https://medium.com/vickdata/programming-skills-a-complete-roadmap-for-learning-data-science-part-1-7913b289751b">Here </a>is a Roadmap for Learning Data Science By -REBECCA and <a href="https://monkeylearn.com/blog/getting-started-with-python-machine-learning/">here</a> is another article by MonkeyLearn for getting started with ML. I chose python for learning ML.
